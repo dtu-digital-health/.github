@@ -1,8 +1,8 @@
 # Welcome to the Digital Health Section at the Technical University of Denmark 
 
-This place contains software developed and maintained by researchers and students affiliated with the [Digital Health Section](https://www.healthtech.dtu.dk/research/research-sections/section-digital-health) at the [Department of Health Technology](https://www.healthtech.dtu.dk/) at the [Technical University of Denmark](https://www.dtu.dk/english/) (DTU).
+This place contains **software** developed and maintained by researchers and students affiliated with the [Digital Health Section](https://www.healthtech.dtu.dk/research/research-sections/section-digital-health) at the [Department of Health Technology](https://www.healthtech.dtu.dk/) at the [Technical University of Denmark](https://www.dtu.dk/english/) (DTU).
 
-The main purpose of this place is to share public (open-source) and private repositories with our collaborators.
+The main purpose of this place is to share public (open-source) and private software repositories with our collaborators. This place is **NOT** intended for sharing data.
 
 ## Get involved!
 
