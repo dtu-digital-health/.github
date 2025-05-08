@@ -1,14 +1,16 @@
-## Welcome to the Digital Health Section at the Technical University of Denmark 
+# Welcome to the Digital Health Section at the Technical University of Denmark 
 
 This place contains software developed and maintained by researchers and students affiliated with the [Digital Health Section](https://www.healthtech.dtu.dk/research/research-sections/section-digital-health) at the [Department of Health Technology](https://www.healthtech.dtu.dk/) at the [Technical University of Denmark](https://www.dtu.dk/english/) (DTU).
 
 The main purpose of this place is to share public (open-source) and private repositories with our collaborators.
 
-### Get involved!
+## Get involved!
 
 If you are affiliated with the section and want to contribute your software, please read our contribution guide.
 
-### Useful resources
+## Useful resources
+
+* **The Copenhagen Research Platform** [CARP] - [home](https://carp.dk/) | [github](https://github.com/cph-cachet) 
 
 <!--
 
