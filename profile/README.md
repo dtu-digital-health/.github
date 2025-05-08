@@ -6,7 +6,7 @@ The main purpose of this place is to share public (open-source) and private repo
 
 ## Get involved!
 
-If you are affiliated with the section and want to contribute your software, please read our contribution guide.
+If you are affiliated with the section and want to contribute your software, please read our [contribution guide](CONTRIBUTING.md).
 
 ## Useful resources
 
