@@ -23,9 +23,21 @@ Thus, adding code to this organization differs in the two cases.
 
 As a student, you can decide to hand over the code to DTU and add it to this GitHub site. This is something you decide in collaboration with your supervisor and can happen if, for example, you continue some prior work based at DTU, if you want future students to continue working on your project, or if your code is part of a bigger set of projects at DTU. If you wish to transfer the ownership of your code to DTU, you and your supervisor should:
 
-* Sign the so-called "G Declaration".
+* Create and sign the so-called "Declaration of confidentiality and assignment of intellectual property rights" (available at [DTU INSIDE](https://www.inside.dtu.dk/en/medarbejder/forskning-innovation-og-raadgivning/forskningssamarbejde-jura-og-kontraktforhold/for-kontraktansvarlige/download-templates?rfb=eyJ2IjoxLCJwIjpmYWxzZSwiZGV2IjoiIiwidWlkIjoiMjYzMTA5ODgtYWViOS00YzAyLWI1ZWQtNDg0NDIwZTZjZGJhIiwic2NwIjoiaW50ZXJuYWwiLCJrYmlkIjozNTAsInNpZCI6ImFKTktQcFJWLW5KQ0FqZnJCWkFqSnciLCJhaWQiOjUzMzI3MDQsInNlY2lkIjoxNTQ3ODMwNTgsInN0Ijoid2ViX3NjcmFwZSIsInQiOiJzZWFyY2gifQ))
 * Create and use a code repository in this GitHub organization (or transfer the repository from another GitHub account, like your own).
 * Make sure that your code is documented correctly (see below)
+
+### DTU Employee
+
+If you are a DTU employee, e.g., a PhD Student (note that in Denmark you are legally speaking **not** a student if you are a PhD "Student", but en employee at the university), a Research Assistant, Researcher, or Professor, DTU has all rights to any IPR you may create, including copyright to any software you may create. To quote the "[About software](https://www.inside.dtu.dk/en/medarbejder/forskning-innovation-og-raadgivning/forskningssamarbejde-jura-og-kontraktforhold/om-software)" section on DTU INSIDE:
+
+> [!IMPORTANT]
+> DTU automatically acquires all rights to software that has been developed by DTU employees during the performance of their work at DTU. It is of no importance whether the software was written within normal working hours or during leisure time.
+
+
+ 
+
+## Open Source
 
 
 
