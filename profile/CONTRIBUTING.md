@@ -14,8 +14,8 @@ Specifically:
 
 This site hosts code repositories made by researchers and students affiliated with the Digital Health Section at DTU Health Tech. In Denmark, the Intellectual Property Right (IPR) legislation works differently whether you're a student or an employee at DTU.
 
-* As a student, you own the IPR of your work, including the copyright to any code you write.
-* As an employee - including PhD students and Research Assistants - DTU owns the IPR and has the copyright to your code.
+* As a **student**, you own the IPR of your work, including the copyright to any code you write.
+* As an **employee**, including PhD students and Research Assistants, DTU owns the IPR and has the copyright to your code.
 
 Thus, adding code to this organization differs in the two cases.
 
@@ -36,9 +36,9 @@ If you are a DTU employee, e.g., a PhD Student (note that in Denmark you are leg
 
 This entails:
 
-* Any software project you own or lead should be part of this Github organization (as one or more repositories).
-* Any software you contribute to other repositories need to be covered by a collaboration agreement with DTU that explains IPR ownership ( but this is not relevant for this Github setup).
-* You cannot share you code with others (e.g., as open source) with anyone without permission from DTU (see below).
+* Any software project you own or lead should be part of this GitHub organization (as one or more repositories).
+* Any software you contribute to other repositories needs to be covered by a collaboration agreement with DTU that explains IPR ownership ( but this is not relevant for this GitHub setup).
+* You cannot share your code (e.g., as open source) with anyone without permission from DTU (see below).
 * You should file a software notification form (SNF) to DTU on any software you have created.
 
 As written on INSIDE:
@@ -50,11 +50,11 @@ As written on INSIDE:
 
 ## Open Source
 
-Since DTU owns all software, you cannot open source any software (i.e., make a repository "public") without the permission of DTU. As stated on INSIDE:
+Since DTU owns all software, you cannot open-source any software (i.e., make a repository "public") without the permission of DTU. As stated on INSIDE:
 
 > [!CAUTION]
 > _If you [...] prefer to share software developed at DTU on a non-commercial basis, and if no third-party rights prevent such publication or sharing of the software, then you [...] may publish or share the software under a license of your own choice – provided, however, that you can answer “no” to all questions in the Checklist._
-> _If the answer to one or more questions in the Checklist is “yes”, you must complete a simple non-commercial Software Notification Form (SNF) which then will be reviewed by DTU Legal & Technology Transfer before your software may be published or shared with anyone._
+> _If the answer to one or more questions in the Checklist is “yes”, you must complete a simple non-commercial Software Notification Form (SNF), which then will be reviewed by DTU Legal & Technology Transfer before your software may be published or shared with anyone._
 
 
 ## Documentation
