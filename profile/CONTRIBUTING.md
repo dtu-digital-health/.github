@@ -8,7 +8,7 @@ Specifically:
 
 * Respect people, their identities, their culture, and their work.
 * Be kind. Be courteous. Be welcoming.
-* Listen. Consider and acknowledge people's points before responding.
+* Document your code - put yourself in the shoes of others.
 
 ## What Code should be added?
 
@@ -25,7 +25,7 @@ As a student, you can decide to hand over the code to DTU and add it to this Git
 
 * Create and sign the so-called "Declaration of confidentiality and assignment of intellectual property rights" (available at [DTU INSIDE](https://www.inside.dtu.dk/en/medarbejder/forskning-innovation-og-raadgivning/forskningssamarbejde-jura-og-kontraktforhold/for-kontraktansvarlige/download-templates?rfb=eyJ2IjoxLCJwIjpmYWxzZSwiZGV2IjoiIiwidWlkIjoiMjYzMTA5ODgtYWViOS00YzAyLWI1ZWQtNDg0NDIwZTZjZGJhIiwic2NwIjoiaW50ZXJuYWwiLCJrYmlkIjozNTAsInNpZCI6ImFKTktQcFJWLW5KQ0FqZnJCWkFqSnciLCJhaWQiOjUzMzI3MDQsInNlY2lkIjoxNTQ3ODMwNTgsInN0Ijoid2ViX3NjcmFwZSIsInQiOiJzZWFyY2gifQ))
 * Create and use a code repository in this GitHub organization (or transfer the repository from another GitHub account, like your own).
-* Make sure that your code is documented correctly (see below)
+* Make sure that your code is [documented](#Documentation) correctly (see below)
 
 ### DTU Employee
 
