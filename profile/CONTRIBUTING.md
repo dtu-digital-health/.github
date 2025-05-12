@@ -34,11 +34,27 @@ If you are a DTU employee, e.g., a PhD Student (note that in Denmark you are leg
 > [!IMPORTANT]
 > DTU automatically acquires all rights to software that has been developed by DTU employees during the performance of their work at DTU. It is of no importance whether the software was written within normal working hours or during leisure time.
 
+This entails:
+
+* Any software project you own or lead should be part of this Github organization (as one or more repositories).
+* Any software you contribute to other repositories need to be covered by a collaboration agreement with DTU that explains IPR ownership ( but this is not relevant for this Github setup).
+* You cannot share you code with others (e.g., as open source) with anyone without permission from DTU (see below).
+* You should file a software notification form (SNF) to DTU on any software you have created.
+
+As written on INSIDE:
+
+> [!CAUTION]
+> Because software belongs to DTU, it is important that it is handled according to DTU’s software procedures, including submission of a Software Notification Form (SNF), which depends on whether or not the department wants to commercialize the software or not.
 
  
 
 ## Open Source
 
+Since DTU owns all software, you cannot open source any software (i.e., make a repository "public") without the permission of DTU. As stated on INSIDE:
+
+> [!CAUTION]
+> If you [...] prefer to share software developed at DTU on a non-commercial basis, and if no third-party rights prevent such publication or sharing of the software, then you [...] may publish or share the software under a license of your own choice – provided, however, that you can answer “no” to all questions in the Checklist.
+> If the answer to one or more questions in the Checklist is “yes”, you must complete a simple non-commercial Software Notification Form (SNF) which then will be reviewed by DTU Legal & Technology Transfer before your software may be published or shared with anyone.
 
 
 ## Documentation
