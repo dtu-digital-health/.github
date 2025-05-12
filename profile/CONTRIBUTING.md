@@ -86,6 +86,7 @@ If and when you contribute code to a repository - be it your own or others - ple
 * Write proper API documentation for your code (see below).
 * Create additional markdown (`.md`) files or wiki pages that explain and document how to use your code
 * Provide example code to get people started.
+* Write correct and consise English documentation (avoid Danish or other non-English documentation)
 
 For example, look at the [CARP Core Kotlin](https://github.com/cph-cachet/carp.core-kotlin) repository, which provides exemplary documentation and works as an example of the level of documentation expected.
 
