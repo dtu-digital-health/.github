@@ -10,7 +10,7 @@ Specifically:
 * Be kind. Be courteous. Be welcoming.
 * [Document](#Document) your code - put yourself in the shoes of others.
 
-## What Code should be added?
+## What Code should be Added?
 
 This site hosts code repositories made by researchers and students affiliated with the Digital Health Section at DTU Health Tech. In Denmark, the Intellectual Property Right (IPR) legislation works differently whether you're a student or an employee at DTU.
 
@@ -46,7 +46,6 @@ As written on INSIDE:
 > [!CAUTION]
 > _Because software belongs to DTU, it is important that it is handled according to DTU’s software procedures, including submission of a Software Notification Form (SNF), which depends on whether or not the department wants to commercialize the software or not._
 
- 
 
 ## Open Source
 
@@ -55,6 +54,28 @@ Since DTU owns all software, you cannot open-source any software (i.e., make a r
 > [!CAUTION]
 > _If you [...] prefer to share software developed at DTU on a non-commercial basis, and if no third-party rights prevent such publication or sharing of the software, then you [...] may publish or share the software under a license of your own choice – provided, however, that you can answer “no” to all questions in the Checklist._
 > _If the answer to one or more questions in the Checklist is “yes”, you must complete a simple non-commercial Software Notification Form (SNF), which then will be reviewed by DTU Legal & Technology Transfer before your software may be published or shared with anyone._
+
+## Copyright Statement
+
+Since DTU owns all software created by its employees, software published, or made available in any other way, must always state DTU as the copyright holder of the software with the following copyright notice:
+
+```
+Copyright (c) [YYYY] Technical University of Denmark (DTU).
+```
+This copyright notice should be added to **ALL** files in the repository.
+
+If preferred, the names of the developers can be added in addition to the general copyright notice, e.g.:
+
+```
+Copyright (c) [YYYY] Technical University of Denmark (DTU).
+
+The original version of the software was developed by
+  * [Name, Position, Department],
+  * [Name, Position, Department],
+  * [Name, Position, Department]. 
+```
+
+Or the names can be added to the `AUTHORS.md` file in the repository.
 
 
 ## Documentation
