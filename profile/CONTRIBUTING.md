@@ -8,7 +8,7 @@ Specifically:
 
 * Respect people, their identities, their culture, and their work.
 * Be kind. Be courteous. Be welcoming.
-* Document your code - put yourself in the shoes of others.
+* [Document](#Document) your code - put yourself in the shoes of others.
 
 ## What Code should be added?
 
