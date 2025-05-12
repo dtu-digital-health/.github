@@ -49,9 +49,9 @@ As written on INSIDE:
 
 ## Open Source
 
-Since DTU owns all software, you cannot open-source any software (i.e., make a repository "public") without the permission of DTU. As stated on INSIDE:
+Since DTU owns all software, you cannot open-source any software (i.e., make a repository "public") without the permission of DTU. This process starts with going over a [Checklist](https://www.inside.dtu.dk/-/media/dtu-inside/medarbejder/forskning-innovation-raadgivning/forskningssamarbejde-jura-og-kontraktforhold/software/checklist-software_rev-23-04-2024.docx) that asks about the nature of your software. As stated on INSIDE:
 
-> [!CAUTION]
+> [!NOTE]
 > _If you [...] prefer to share software developed at DTU on a non-commercial basis, and if no third-party rights prevent such publication or sharing of the software, then you [...] may publish or share the software under a license of your own choice – provided, however, that you can answer “no” to all questions in the Checklist._
 > _If the answer to one or more questions in the Checklist is “yes”, you must complete a simple non-commercial Software Notification Form (SNF), which then will be reviewed by DTU Legal & Technology Transfer before your software may be published or shared with anyone._
 
@@ -86,7 +86,7 @@ If and when you contribute code to a repository - be it your own or others - ple
 * Write proper API documentation for your code (see below).
 * Create additional markdown (`.md`) files or wiki pages that explain and document how to use your code
 * Provide example code to get people started.
-* Write correct and consise English documentation (avoid Danish or other non-English documentation)
+* Write correct and concise English documentation (avoid Danish or other non-English documentation)
 
 For example, look at the [CARP Core Kotlin](https://github.com/cph-cachet/carp.core-kotlin) repository, which provides exemplary documentation and works as an example of the level of documentation expected.
 
