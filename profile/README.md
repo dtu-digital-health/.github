@@ -10,9 +10,10 @@ If you are affiliated with the section and want to contribute your software, ple
 
 ## Useful resources
 
-* **The Copenhagen Research Platform** [CARP] - [home](https://carp.dk/) | [github](https://github.com/cph-cachet)
+* **DTU Software Policies** -- [FAQ](https://www.inside.dtu.dk/-/media/dtu-inside/medarbejder/forskning-innovation-raadgivning/forskningssamarbejde-jura-og-kontraktforhold/software/software-faq-23-04-2024.docx) | [home](https://www.inside.dtu.dk/en/medarbejder/forskning-innovation-og-raadgivning/forskningssamarbejde-jura-og-kontraktforhold/om-software) | [software notification](https://www.inside.dtu.dk/en/medarbejder/forskning-innovation-og-raadgivning/patenter-opfindelser/patenter-og-software/anmeld-software?rfb=eyJ2IjoxLCJwIjpmYWxzZSwiZGV2IjoiIiwidWlkIjoiMjYzMTA5ODgtYWViOS00YzAyLWI1ZWQtNDg0NDIwZTZjZGJhIiwic2NwIjoiaW50ZXJuYWwiLCJrYmlkIjozNTAsInNpZCI6ImFKTktQcFJWLW5KQ0FqZnJCWkFqSnciLCJhaWQiOjUzMzI2ODUsInNlY2lkIjoxNDEyMjc4NDgsInN0Ijoid2ViX3NjcmFwZSIsInQiOiJzZWFyY2gifQ) | [non-commercial software](https://www.inside.dtu.dk/en/medarbejder/forskning-innovation-og-raadgivning/forskningssamarbejde-jura-og-kontraktforhold/om-software/software-der-ikke-oenskes-kommercialiseret) 
 * **DTU Data** - [home](https://data.dtu.dk/) | [about](https://www.bibliotek.dtu.dk/en/publishing/research-data/dtu-data) | [policy](https://www.bibliotek.dtu.dk/en/publishing/research-data/policy)
-
+* **The Copenhagen Research Platform** [CARP] - [home](https://carp.dk/) | [github](https://github.com/cph-cachet)
+* 
 <!--
 
 **Here are some ideas to get you started:**
