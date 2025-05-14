@@ -1,5 +1,7 @@
 # Contributing to the Digital Health Section Code Repositories
 
+Before getting started, you should know what GitHub is and how it works. Here is a [written introduction](https://docs.github.com/en/get-started/start-your-journey/hello-world) and a [video](https://youtu.be/tRZGeaHPoaw?si=abV6YoBKByy66G4S) tutorial.
+
 ## Code of conduct
 
 We expect contributors to act professionally and respectfully; contributors are expected to maintain the safety and dignity of the social environment on GitHub. 
