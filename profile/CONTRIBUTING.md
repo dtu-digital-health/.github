@@ -96,3 +96,4 @@ Depending on your programming language, there are the following API documentatio
 
 * **Python** - please follow the "[Documenting Python Code: A Complete Guide](https://realpython.com/documenting-python-code/)" guidelines.
 * **Dart/Flutter** - please follow the "[Effective Dart: Documentation](https://dart.dev/effective-dart/documentation#doc-comments)" guidelines.
+* **MATLAB** - please follow the "[MonkeyProof Coding Standard for MATLAB](https://doc.monkeyproofsolutions.nl/code-checker-for-matlab/monkeyproof-coding-standard-for-matlab/title.html)" guideline when writing MATLAB code and the "[MATLAB Style Guidelines 2.0](https://nl.mathworks.com/matlabcentral/fileexchange/46056-matlab-style-guidelines-2-0)" for documentation.
