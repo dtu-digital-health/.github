@@ -2,7 +2,7 @@
 
 This place contains **software** developed and maintained by researchers and students affiliated with the [Digital Health Section](https://www.healthtech.dtu.dk/research/research-sections/section-digital-health) at the [Department of Health Technology](https://www.healthtech.dtu.dk/) at the [Technical University of Denmark](https://www.dtu.dk/english/) (DTU).
 
-The main purpose of this place is to share public (open-source) and private software repositories with our collaborators. This place is **NOT** intended for sharing data.
+The main purpose of this place is to share public (open-source) and private software repositories with our collaborators. This place is **NOT** intended for sharing data. Data is shared via [DTU Data](https://data.dtu.dk/).
 
 ## Get involved!
 
@@ -10,7 +10,8 @@ If you are affiliated with the section and want to contribute your software, ple
 
 ## Useful resources
 
-* **The Copenhagen Research Platform** [CARP] - [home](https://carp.dk/) | [github](https://github.com/cph-cachet) 
+* **The Copenhagen Research Platform** [CARP] - [home](https://carp.dk/) | [github](https://github.com/cph-cachet)
+* **DTU Data** - [home](https://data.dtu.dk/) | [about](https://www.bibliotek.dtu.dk/en/publishing/research-data/dtu-data) | [policy](https://www.bibliotek.dtu.dk/en/publishing/research-data/policy)
 
 <!--
 
