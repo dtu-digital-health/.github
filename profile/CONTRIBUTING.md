@@ -56,6 +56,11 @@ Since DTU owns all software, you cannot open-source any software (i.e., make a r
 > [!NOTE]
 > _If you [...] prefer to share software developed at DTU on a non-commercial basis, and if no third-party rights prevent such publication or sharing of the software, then you [...] may publish or share the software under a license of your own choice – provided, however, that you can answer “no” to all questions in the Checklist._
 > _If the answer to one or more questions in the Checklist is “yes”, you must complete a simple non-commercial Software Notification Form (SNF), which then will be reviewed by DTU Legal & Technology Transfer before your software may be published or shared with anyone._
+> 
+
+If you get permission from DTU to open source your software, DTU prefers the [BDS-3](https://opensource.org/license/bsd-3-clause) license over, e.g., the MIT license. As written by Kamilla Gibson:
+
+> "Hvis I ønsker vejledning til, hvilken licens, softwaren gøres tilgængelig under, er I velkomne til at vende tilbage til mig. Hvis kun MIT og BSD-licenserede tredjepartskomponenter er anvendt, ville min personlige anbefaling være, at I licenserer jeres kode under The 3-Clause BSD License, som er en permissive licens, der desuden indeholder en ”non-endorsement clause”, der betyder, at andre ikke kan benytte DTU’s kode i sammenhænge, hvor de promoverer deres egne produkter, uden DTU’s samtykke."
 
 ## Copyright Statement
 
