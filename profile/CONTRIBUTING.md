@@ -77,7 +77,7 @@ The original version of the software was developed by
   * [Name, Position, Department]. 
 ```
 
-You can also use a `LICENSE` and put the names of the authors in an `AUTHORS` file in the repository, and write like this:
+You can also put a `LICENSE` and an `AUTHORS` file in the repository, and write like this:
 
 ```
 Copyright (c) 2018, the Technical University of Denmark (DTU).
