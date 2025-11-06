@@ -62,7 +62,7 @@ Since DTU owns all software, you cannot open-source any software (i.e., make a r
 Since DTU owns all software created by its employees, software published, or made available in any other way, must always state DTU as the copyright holder of the software with the following copyright notice:
 
 ```
-Copyright (c) [YYYY] Technical University of Denmark (DTU).
+Copyright (c) [YYY], the Technical University of Denmark (DTU).
 ```
 This copyright notice should be added to **ALL** files in the repository.
 
@@ -77,7 +77,14 @@ The original version of the software was developed by
   * [Name, Position, Department]. 
 ```
 
-Or the names can be added to the `AUTHORS.md` file in the repository.
+You can also use a `LICENSE` and put the names of the authors in an `AUTHORS` file in the repository, and write like this:
+
+```
+Copyright (c) 2018, the Technical University of Denmark (DTU).
+Please see the AUTHORS file for details. All rights reserved. 
+Use of this source code is governed by a MIT-style license that can be
+found in the LICENSE file.
+```
 
 
 ## Documentation
